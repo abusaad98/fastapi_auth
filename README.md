@@ -16,13 +16,17 @@ This is a project that requires the following dependencies to run successfully.
 
 To install the required dependencies, please follow these steps:
 
-1. pip Install FastAPI, Uvicorn, and SQLAlchemy
-2. pip install python-jose[cryptography]
-3. pip install passlib[bcrypt]
-4. pip install python-multipart
-5. pip Upgrade bcrypt to the latest version
-6. pip install bcrypt version 3.2.0
-7. python -m pip install "pymongo[srv]"==3.11  ## MongoDB Python Drivers
+
+1. python -m venv env
+2. .\env\Scripts\activate
+3. pip Install FastAPI, Uvicorn, and SQLAlchemy
+4. pip install python-jose[cryptography]
+5. pip install passlib[bcrypt]
+6. pip install python-multipart
+7. pip Upgrade bcrypt to the latest version
+8. pip install bcrypt version 3.2.0
+9. python -m pip install "pymongo[srv]"==3.11  ## MongoDB Python Drivers
+   
 
 ## Running the Program
 
