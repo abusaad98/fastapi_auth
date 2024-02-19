@@ -28,3 +28,7 @@ To install the required dependencies, please follow these steps:
 To run the program, use the following command:
 
 ## uvicorn main:app --reload
+
+## Copy Dependencies and restore in requirements
+pip freeze > requirements.txt
+pip install -r requirements.txt
