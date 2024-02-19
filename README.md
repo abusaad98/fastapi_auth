@@ -16,12 +16,12 @@ This is a project that requires the following dependencies to run successfully.
 
 To install the required dependencies, please follow these steps:
 
-1. pip Install FastAPI, Uvicorn, and SQLAlchemy:
-2. pip Install python-jose[cryptography]:
-3. pip Install passlib[bcrypt]:
-4. pip Install python-multipart:
-5. pip Upgrade bcrypt to the latest version:
-6. pip Install bcrypt version 3.2.0:
+1. pip Install FastAPI, Uvicorn, and SQLAlchemy
+2. pip install python-jose[cryptography]
+3. pip install passlib[bcrypt]
+4. pip install python-multipart
+5. pip Upgrade bcrypt to the latest version
+6. pip install bcrypt version 3.2.0
 
 ## Running the Program
 
