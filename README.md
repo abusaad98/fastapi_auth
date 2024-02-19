@@ -22,6 +22,7 @@ To install the required dependencies, please follow these steps:
 4. pip install python-multipart
 5. pip Upgrade bcrypt to the latest version
 6. pip install bcrypt version 3.2.0
+7. python -m pip install "pymongo[srv]"==3.11  ## MongoDB Python Drivers
 
 ## Running the Program
 
